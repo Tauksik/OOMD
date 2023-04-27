@@ -23,17 +23,19 @@
 **7) Non-Functional Attributes**: The Credit Card software system should be secure, reliable, and easy to use. It should also be portable, with the ability to run on multiple platforms and devices. Other non-functional requirements include data integrity, scalability, and performance optimization.
 
 **8) Preliminary Schedule and Budget**:
+
 Schedule:
-Requirements gathering and analysis - 2 weeks
-System design and architecture - 4 weeks
-Development and testing - 12 weeks
-Integration and user acceptance testing - 4 weeks
-Training and deployment - 2 weeks
-Post-deployment support and maintenance - ongoing
-Total project duration: 24 weeks (6 months)
+Requirements gathering and analysis(2 weeks), 
+System design and architecture(4 weeks), 
+Development and testing(12 weeks), 
+Integration and user acceptance testing(4 weeks), 
+Training and deployment(2 weeks), 
+Post-deployment support and maintenance(ongoing), 
+Total project duration is 24 weeks(6 months), 
+
 Budget:
-Salaries and wages for development team - $300,000
-Hardware and software costs - $50,000
-Training and deployment costs - $20,000
-Post-deployment support and maintenance - $50,000 per year
-Total project cost: $420,000
+Salaries and wages for development team($300,000), 
+Hardware and software costs($50,000), 
+Training and deployment costs($20,000), 
+Post-deployment support and maintenance($50,000 per year), 
+Total project cost is $420,000.
