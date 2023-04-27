@@ -4,11 +4,11 @@
 
 1) **Introduction**:
 
-1.1 **Purpose of this Document**:
+1.1 **Purpose**:
 
 The purpose of this document is to define the requirements for a Hotel Management software system. It outlines the system's goals and features, including its functional and non-functional requirements, design constraints, and preliminary schedule and budget.
 
-1.2 **Scope of this Document**:
+1.2 **Scope**:
 
 This document describes the requirements for a Hotel Management software system that will enable hotels to manage their reservations, guest information, inventory, billing and payments, reporting and analytics, integration with other systems, staff management, and loyalty program management. The system should be user-friendly, efficient, and reliable.
 
