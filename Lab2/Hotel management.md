@@ -28,25 +28,25 @@ i. Room reservation management
 
 ii. Guest information management
 
-iii. Inventory management
+iii. Billing and payment management
 
-iv. Billing and payment management
+iv.Inventory management
 
-v. Reporting and analytics
+v. Loyalty program management
 
-vi. Integration with third-party systems
+vi. Staff management
 
-vii. Staff management
+vii. Integration with third-party system
 
-viii. Loyalty program management
+viii. Reporting and analytics
 
-4) **Interface Requirements**:
-
-The Hotel Management software system should be able to communicate with other systems using standard interfaces such as APIs or web services. The system should also provide a user-friendly interface for hotel staff and customers.
-
-5) **Performance Requirements**:
+4) **Performance Requirements**:
 
 The Hotel Management software system should be able to handle a large number of simultaneous users and provide fast response times. The system should also be scalable to accommodate future growth.
+
+5) **Interface Requirements**:
+
+The Hotel Management software system should be able to communicate with other systems using standard interfaces such as APIs or web services. The system should also provide a user-friendly interface for hotel staff and customers.
 
 6) **Design Constraints**:
 
