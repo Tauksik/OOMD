@@ -1,5 +1,7 @@
 ### Hotel Management System 
 
+**Aim**: To write the Problem Statement and Software Requirements Specification (SRS) for a Hotel Management System.
+
 **Problem statement**: To develop a  comprehensive hotel management software system that can automate and streamline these processes is essential. Such a system can help hotels enhance operational efficiency, reduce costs, boost revenue, and provide personalized recommendations and experiences to guests, enabling them to manage their inventory effectively, reduce the risk of overbooking, and improve staff productivity.
 
 1) **Introduction**:
