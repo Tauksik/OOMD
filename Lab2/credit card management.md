@@ -1,5 +1,7 @@
 ### Credit Card Processing System
 
+**Aim**: To write the Problem Statement and Software Requirements Specification (SRS) for a Credit Card Processing System.
+
 **Problem Statement**: To create a credit card software system that is needed to provide an efficient and secure platform for managing transactions and customer information. This system should be user-friendly, easily accessible, and capable of processing transactions in real-time. The goal is to create a seamless experience for customers while also ensuring the security and integrity of their personal and financial data. This software system should be scalable, customizable, and adaptable to changing industry standards and regulations.
 
 **1) Introduction**:
